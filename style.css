@@ -1,0 +1,288 @@
+body{
+    /* padding: 30px 20px; */
+}
+.navbar{
+    /* padding: 0 10px; */
+}
+.navbar-brand
+{
+    font-weight: bold;
+}
+.navbar ul
+{
+   margin: 0 auto;
+   font-weight: bold; 
+}
+.btn
+{
+    font-weight: bold;
+}
+.btnn
+{
+    background-color:#4d13d1;
+    border:0;
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+
+}
+.btnn:hover{
+    background-color: red;
+}
+.star i
+{
+    color: rgb(243, 166, 0);
+    margin-top: 90px;
+}
+.rate
+{
+    margin-left: 50px;
+}
+.trialbut
+{
+    margin-right: 20px;
+}
+.veiws
+{
+    margin-bottom: 15px;
+}
+.header h2
+{
+    font-weight: bold;
+    font-size:50px;
+}
+.header h2:hover
+{
+    color: red;
+}
+.header
+{
+    background-color:#fbf8f3;
+    padding: 40px 0;
+}
+.mainlogo img
+{
+    width: 100%;
+}
+.newwork h3
+{
+    margin-top: 60px;
+    color: #5e1ef3;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.newwork h3:hover
+{
+    color: red;
+}
+.newwork h1:hover
+{
+    color: red;
+}
+.newwork h1{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.newwork h2
+{
+    font-weight:bold;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: black;
+}
+.newwork p
+{
+    color: rgb(141, 134, 134);
+}
+.work2
+{
+    background-color: #4d13d1;
+    /* padding: 50px auto; */
+    padding-top: 50px;
+    /* padding-bottom: 50px; */
+}
+.work2 h3
+{
+    color: white;
+    font-weight: 700;
+}
+.work2 p{
+    color: rgb(216, 198, 198);
+    font-weight: 500;
+}
+.work2 button
+{
+    color: #4d13d1;
+    font-weight: 600;
+    border-radius: 4px;
+    border: 0;
+}
+.avord 
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.avord h6
+{
+    line-height: 0;
+    padding-top: 20px;
+    color: #4d13d1;
+    font-weight: bold;
+}
+.avord  button
+{
+    background-color: rgba(0, 0, 0, 0);
+    color: #4d13d1;
+    font-weight: bold;
+    border: 1px solid rgb(160, 160, 160) ;
+    padding: 10px 50px;
+    border-radius: 4px;
+}
+footer
+{
+    background-color:#fbf8f3;
+}
+ footer .line ul
+{
+   list-style: none;
+}
+footer .line ul li
+{
+    color: rgb(187, 183, 183);
+}
+footer h5
+{
+    color: rgb(187, 183, 183);
+}
+footer p{
+    color: rgb(187, 183, 183);
+}
+footer h2
+{
+    font-weight: bold;
+    font-size: large;
+}
+footer
+{
+    padding: 50px 50px;
+}
+.heading
+{
+    padding-left: 30px;
+}
+@media only screen and (max-width: 1400px)
+{
+    .btnn
+    {
+        /* background-color:#13d152; */
+        border:0;
+        padding: 20px px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+    
+    }
+
+}
+@media only screen and (max-width: 1200px)
+{
+    .avord 
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.avord h6
+{
+    line-height: 0;
+    padding-top: 20px;
+    color: #4d13d1;
+    font-weight: bold;
+}
+.avord  button
+{
+    background-color: rgba(0, 0, 0, 0);
+    color: #4d13d1;
+    font-weight: bold;
+    border: 1px solid rgb(160, 160, 160) ;
+    padding: 10px 50px;
+    border-radius: 4px;
+}
+
+}
+@media only screen and (max-width: 992px)
+{
+    .avord 
+    {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .avord h6
+    {
+        line-height: 0;
+        padding-top: 20px;
+        color: #4d13d1;
+        font-weight: bold;
+    }
+    .btnn
+    {
+        background-color:#f0ec16;
+        border:0;
+        padding: 5px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+    
+    }
+
+}
+@media only screen and (max-width: 768px)
+{
+    .btnn
+    {
+        background-color:#ffffff;
+        border:0;
+        padding: 5px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+    
+    }
+
+}
+@media only screen and (max-width: 576px)
+{
+    .btnn
+    {
+        background-color:#4d13d1;
+        border:0;
+        padding: 5px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+    
+    }
+
+}
+@media only screen and (max-width: 576px)
+{
+    .avord h6
+{
+    line-height: 0;
+    padding-top:30px;
+    color: #4d13d1;
+    font-weight: bold;
+}
+.heading
+{
+    padding-left: 80px;
+    margin-top: -70px;
+ }
+ .arround
+ {
+     margin-top: 20px;
+ }
+}
